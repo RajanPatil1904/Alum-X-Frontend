@@ -14,4 +14,5 @@ Thanks to all the amazing people who have contributed to **AlumX's Frontend Repo
 ## 🌱 Contributors
 <!-- Add your name (and GitHub username) below this line -->
    - Jatin (@thenix09)
+   - Harshvardhan0 (@HARSH4885-svg)
 
