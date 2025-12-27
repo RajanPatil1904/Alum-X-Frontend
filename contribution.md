@@ -30,3 +30,4 @@ Thanks to all the amazing people who have contributed to **AlumX's Frontend Repo
 - Ishan Raj Singh (@ishanrajsingh)
 - Vishva Modh  (@ViMo018)
 - Sudhanshu (@sahsudhanshu)
+- Rushal Verma (@Rushalverma)
